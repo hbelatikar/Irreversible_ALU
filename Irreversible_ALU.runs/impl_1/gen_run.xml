@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tfbg676-2" LaunchTime="1527306578">
+  <File Type="PWROPT-DRC" Name="sixteen_bit_irrev_struct_drc_pwropted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="sixteen_bit_irrev_struct_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="sixteen_bit_irrev_struct_power_routed.rpx"/>
+  <File Type="PA-TCL" Name="sixteen_bit_irrev_struct.tcl"/>
+  <File Type="OPT-HWDEF" Name="sixteen_bit_irrev_struct.hwdef"/>
+  <File Type="RDI-RDI" Name="sixteen_bit_irrev_struct.vdi"/>
+  <File Type="OPT-DCP" Name="sixteen_bit_irrev_struct_opt.dcp"/>
+  <File Type="OPT-DRC" Name="sixteen_bit_irrev_struct_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="sixteen_bit_irrev_struct_pwropt.dcp"/>
+  <File Type="PWROPT-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="sixteen_bit_irrev_struct_placed.dcp"/>
+  <File Type="PLACE-IO" Name="sixteen_bit_irrev_struct_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="sixteen_bit_irrev_struct_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="sixteen_bit_irrev_struct_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="sixteen_bit_irrev_struct_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="sixteen_bit_irrev_struct_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="sixteen_bit_irrev_struct_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="sixteen_bit_irrev_struct_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="sixteen_bit_irrev_struct_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="sixteen_bit_irrev_struct_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="sixteen_bit_irrev_struct_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="sixteen_bit_irrev_struct_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="sixteen_bit_irrev_struct_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="sixteen_bit_irrev_struct_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="sixteen_bit_irrev_struct_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="sixteen_bit_irrev_struct_drc_routed.pb"/>
+  <File Type="BG-BIN" Name="sixteen_bit_irrev_struct.bin"/>
+  <File Type="ROUTE-DRC-RPX" Name="sixteen_bit_irrev_struct_drc_routed.rpx"/>
+  <File Type="BG-DRC" Name="sixteen_bit_irrev_struct.drc"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="sixteen_bit_irrev_struct_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MSK" Name="sixteen_bit_irrev_struct.msk"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="sixteen_bit_irrev_struct_methodology_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="sixteen_bit_irrev_struct.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="sixteen_bit_irrev_struct_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="sixteen_bit_irrev_struct_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="sixteen_bit_irrev_struct_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="sixteen_bit_irrev_struct_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="sixteen_bit_irrev_struct_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="sixteen_bit_irrev_struct_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="sixteen_bit_irrev_struct_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="sixteen_bit_irrev_struct_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="sixteen_bit_irrev_struct_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="sixteen_bit_irrev_struct_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="sixteen_bit_irrev_struct_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="sixteen_bit_irrev_struct_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="sixteen_bit_irrev_struct_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="sixteen_bit_irrev_struct_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="sixteen_bit_irrev_struct_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="sixteen_bit_irrev_struct.bit"/>
+  <File Type="BITSTR-RBT" Name="sixteen_bit_irrev_struct.rbt"/>
+  <File Type="BITSTR-NKY" Name="sixteen_bit_irrev_struct.nky"/>
+  <File Type="BITSTR-BMM" Name="sixteen_bit_irrev_struct_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="sixteen_bit_irrev_struct.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="sixteen_bit_irrev_struct.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/16bitirrevalu/one_bit_irrev_struct.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="G:/College Stuff/BE Project/nayawala sab/16bitirrevalu/one_bit_irrev_struct.v"/>
+        <Attr Name="ImportTime" Val="1527158688"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/16bitirrevalu/sixteen_bit_irrev_struct.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="G:/College Stuff/BE Project/nayawala sab/16bitirrevalu/sixteen_bit_irrev_struct.v"/>
+        <Attr Name="ImportTime" Val="1527158554"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sixteen_bit_irrev_struct"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2017"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

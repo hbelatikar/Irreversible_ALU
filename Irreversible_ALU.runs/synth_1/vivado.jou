@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sat May 26 09:19:43 2018
+# Process ID: 1676
+# Current directory: E:/Xilinx/New_everything/Irreversible_ALU/Irreversible_ALU.runs/synth_1
+# Command line: vivado.exe -log sixteen_bit_irrev_struct.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sixteen_bit_irrev_struct.tcl
+# Log file: E:/Xilinx/New_everything/Irreversible_ALU/Irreversible_ALU.runs/synth_1/sixteen_bit_irrev_struct.vds
+# Journal file: E:/Xilinx/New_everything/Irreversible_ALU/Irreversible_ALU.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source sixteen_bit_irrev_struct.tcl -notrace
